@@ -1,0 +1,1 @@
+# UGE-2-ONSDAG-Selenium-dynamisk-indhold-waits
